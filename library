@@ -1,0 +1,13 @@
+megaTinyCore
+https://github.com/SpenceKonde/megaTinyCore/blob/456de5b0320abe8b0b0dff98bc3c30d2f31054fa/Installation.md
+
+PLATFORMIO library:
+
+platformio/atmelmegaavr
+https://registry.platformio.org/platforms/platformio/atmelmegaavr/installation
+
+marcoschwartz/LiquidCrystal_I2C
+https://registry.platformio.org/libraries/marcoschwartz/LiquidCrystal_I2C/installation
+
+mikem/RadioHead
+https://registry.platformio.org/libraries/mikem/RadioHead/installation
